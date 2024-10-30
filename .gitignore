@@ -6,8 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+.DS_Store
+
 # Distribution / packaging
 .Python
+python/OAI_CONFIG_LIST
 build/
 develop-eggs/
 dist/
